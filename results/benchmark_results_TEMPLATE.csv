@@ -1,0 +1,1 @@
+run_date,databricks_runtime,spark_version,cluster_type,worker_count,photon_enabled,aqe_enabled,num_rows,runs,layout,query,median_seconds,rows_returned,files_touched,files_in_table,table_size_mb
