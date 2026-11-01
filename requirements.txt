@@ -1,0 +1,6 @@
+# Databricks notebooks in this repo run on a Databricks cluster.
+# These pins document the environment the notebooks were written
+# for; install only if you are running the notebooks outside
+# Databricks, where dbutils and Delta SQL need adapting.
+pyspark==3.5.1
+delta-spark==3.2.0
